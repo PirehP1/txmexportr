@@ -1,4 +1,4 @@
-# TXMexporteR
+# TXMexportR
 
 Application Shiny permettant d'exporter les unités lexicales (formes graphiques, lemmes, étiquettes morpho-syntaxiques...) présentes dans un corpus TXM après un étiquetage réalisé par le logiciel TreeTagger.
 
