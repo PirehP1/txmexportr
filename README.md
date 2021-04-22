@@ -7,7 +7,7 @@ Application Shiny permettant d'exporter les unités lexicales (formes graphiques
 Dans une session R ou bien RStudio :
 
 ```R
-devtools::install_git("https://framagit.org/leodumont/txmexporter/")
+devtools::install_git("https://framagit.org/leodumont/txmexportr/")
 ```
 
 Attention cela implique d'avoir préalablement installé et chargé le paquet `devtools` :
@@ -20,7 +20,7 @@ library(devtools)
 # Utilisation
 
 ```R
-library(TXMexporteR)
+library(txmexportr)
 launchApp()
 ```
 

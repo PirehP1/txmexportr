@@ -1,4 +1,4 @@
-Package: TXMexporteR
+Package: txmexportr
 Type: Package
 Title: Export lexical units from TXM
 Version: 0.1.0
