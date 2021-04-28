@@ -10,7 +10,7 @@ Dans une session R ou bien RStudio :
 devtools::install_git("https://framagit.org/leodumont/txmexportr/")
 ```
 
-Attention cela implique d'avoir préalablement installé et chargé le paquet `devtools` :
+Attention cela implique d'avoir préalablement installé et chargé le paquet `devtools` et que [git](https://git-scm.com/downloads) soit installé sur votre ordinateur :
 
 ```R
 install.packages("devtools")
