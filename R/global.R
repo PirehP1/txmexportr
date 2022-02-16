@@ -1,1 +1,1 @@
-options(shiny.maxRequestSize = 30*1024^2)
+options(shiny.maxRequestSize = 50*1024^2)
